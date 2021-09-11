@@ -7,9 +7,11 @@ sections:
 - type: directory
   path: src/blog
   label: Posts
-  create: all
+  create: documents
   match: "**/*"
   exclude: ".json"
+  templates:
+  - blog-post
 upload_dir: src/assets/blog
 public_path: "/assets/blog"
 front_matter_path: ''
