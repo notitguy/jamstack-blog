@@ -4,7 +4,7 @@ author: Michal Scott
 date: 2021-09-10T22:00:00Z
 tags:
 - post
-image: "/uploads/breakfast-for-kids-collection_760x580.jpg"
+image: "/src/assets/blog/breakfast-for-kids-collection_760x580.jpg"
 imageAlt: pankakes
 description: What I am having this morning. Or I wish I had...
 
@@ -17,4 +17,4 @@ Where are they?
 
 Still waiting...
 
-I lost my hope... :(
+I lost my hope... :( 
