@@ -11,7 +11,7 @@ sections:
   match: "**/*"
   exclude: ".json"
 upload_dir: src/assets/blog
-public_path: "/src/assets/blog"
+public_path: "/assets/blog"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
