@@ -9,7 +9,7 @@ imageAlt: pankakes
 description: What I am having this morning. Or I wish I had...
 
 ---
-I want pancakes. Yess..
+I want pancakes. Yess.. 
 
 Where are they?
 
@@ -17,4 +17,4 @@ Where are they?
 
 Still waiting...
 
-I lost my hope... :( 
+I lost my hope... :(
